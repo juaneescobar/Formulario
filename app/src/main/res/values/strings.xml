@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Hello World</string>
+    <string name="Hombre">Hombre</string>
+    <string name="Mujer">Mujer</string>
+    <string name="meat">cine</string>
+    <string name="cine">Cine</string>
+    <string name="nadar">nadar</string>
+    <string name="Correr">Correr</string>
+    <string-array name="Pais_origen">
+
+        <item>Colombia</item>
+        <item>USA</item>
+        <item>Argentina</item>
+        <item>Francia</item>
+        <item>Inglaterra</item>
+
+    </string-array>
+</resources>
+
